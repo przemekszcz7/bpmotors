@@ -49,7 +49,7 @@ export default function App() {
       <nav className="fixed top-0 w-full z-[100] bg-bg-primary/80 backdrop-blur-md border-b border-white/5">
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <span className="font-display text-2xl tracking-tighter chrome-text italic">BPMOTORS</span>
+            <span className="font-display text-2xl tracking-tighter chrome-text italic px-2">BPMOTORS</span>
           </div>
           <div className="hidden md:flex items-center gap-8 font-condensed uppercase tracking-widest text-xs">
             <a href="#services" className="hover:text-white transition-colors">Usługi</a>
@@ -229,7 +229,7 @@ export default function App() {
       <footer className="py-20 px-6 bg-black border-t border-white/10">
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
           <div className="md:col-span-2">
-            <h2 className="text-5xl mb-6 chrome-text italic">BPMOTORS</h2>
+            <h2 className="text-5xl mb-6 chrome-text italic px-2 inline-block">BPMOTORS</h2>
             <p className="text-text-muted max-w-sm font-sans mb-8">
               Profesjonalny warsztat motocyklowy prowadzony przez Bartłomieja Pacholasza. 
               Pasja, precyzja i rzetelność w każdym calu.
