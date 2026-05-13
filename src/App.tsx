@@ -78,7 +78,7 @@ export default function App() {
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
             <span className="font-condensed text-sm uppercase tracking-[0.5em] text-white/40 mb-4 block">Radom | Serwis | Pasja</span>
-            <h1 className="text-7xl md:text-[10rem] leading-[0.8] mb-8 chrome-text italic font-black">
+            <h1 className="text-6xl sm:text-7xl md:text-[10rem] leading-[0.8] mb-8 chrome-text italic font-black break-words">
               BP MOTORS
             </h1>
             <p className="font-condensed text-xl md:text-2xl uppercase tracking-[0.15em] text-text-secondary max-w-2xl mx-auto">
